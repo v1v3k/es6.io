@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>let and const real world</title>
-</head>
-<body>
-<script>
 {
   const name = 'wes';
   console.log(name);
@@ -17,6 +9,4 @@ for(let i = 0; i < 10; i++) {
     console.log('The number is ' + i);
   },1000);
 }
-</script>
-</body>
-</html>
+
