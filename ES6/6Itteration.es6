@@ -46,3 +46,4 @@ for (var prop of apple) {
 
 
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of
+// difference between of itterator and in itterator
